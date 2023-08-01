@@ -1,0 +1,15 @@
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\bin\Debug\net6.0\generateur_de_phrase.exe
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\bin\Debug\net6.0\generateur_de_phrase.deps.json
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\bin\Debug\net6.0\generateur_de_phrase.runtimeconfig.json
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\bin\Debug\net6.0\generateur_de_phrase.dll
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\bin\Debug\net6.0\generateur_de_phrase.pdb
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.csproj.AssemblyReference.cache
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.AssemblyInfoInputs.cache
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.AssemblyInfo.cs
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.csproj.CoreCompileInputs.cache
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.dll
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\refint\generateur_de_phrase.dll
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.pdb
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\generateur_de_phrase.genruntimeconfig.cache
+C:\Users\HGI\Desktop\C#\generateur_de_phrase\generateur_de_phrase\obj\Debug\net6.0\ref\generateur_de_phrase.dll

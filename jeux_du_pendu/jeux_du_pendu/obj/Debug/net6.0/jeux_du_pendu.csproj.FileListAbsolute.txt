@@ -1,0 +1,16 @@
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\bin\Debug\net6.0\jeux_du_pendu.exe
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\bin\Debug\net6.0\jeux_du_pendu.deps.json
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\bin\Debug\net6.0\jeux_du_pendu.runtimeconfig.json
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\bin\Debug\net6.0\jeux_du_pendu.dll
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\bin\Debug\net6.0\jeux_du_pendu.pdb
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.csproj.AssemblyReference.cache
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.AssemblyInfoInputs.cache
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.AssemblyInfo.cs
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.dll
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\refint\jeux_du_pendu.dll
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.pdb
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\jeux_du_pendu.genruntimeconfig.cache
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\obj\Debug\net6.0\ref\jeux_du_pendu.dll
+C:\Users\HGI\Desktop\C#\jeux_du_pendu\jeux_du_pendu\bin\Debug\net6.0\mots.txt
